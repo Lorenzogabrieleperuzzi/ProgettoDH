@@ -134,6 +134,23 @@ aside .card:hover, .card-tool:hover, .card-item:hover, .card-related-item:hover 
 
 
 /* card lista */
+.card-item .btn {width: 100%;}
+.card-item > .card-body > .card-metadata {height: 250px;}
+.card-metadata > h4 {font-size: 1.2em;}
+
+@media screen and (max-width: 1025px) {
+    .card-item > .card-body > .card-metadata {height: 500px;}
+}
+
+.card-item img {height: 400px;}
+
+@media screen and (min-width: 576px) and (max-width: 767px) {
+    .card-item img {height: 200px;}
+}
+
+@media screen and (min-width: 2000px) {
+    .card-item img {height: 700px;}
+}
 
 
 /*you tube card*/
