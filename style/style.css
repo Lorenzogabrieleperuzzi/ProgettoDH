@@ -139,7 +139,7 @@ aside .card:hover, .card-tool:hover, .card-item:hover, .card-related-item:hover 
 .card-metadata > h4 {font-size: 1.2em;}
 
 @media screen and (max-width: 1025px) {
-    .card-item > .card-body > .card-metadata {height: 350px;}
+    .card-item > .card-body > .card-metadata {height: 500px;}
 }
 
 .card-item img {height: 400px;}
