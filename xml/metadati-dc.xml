@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns:dc="http://purl.org/dc/elements/1.1/" xml:id="LPDP">
+	<author xml:id="LPDP-01">
+		<text xml:id="LPDP-01-01">
+			<dc:title>Lettera al Ministro dell'Interno Francesco Cossiga</dc:title>
+			<dc:creator>Moro, Aldo</dc:creator>
+			<dc:date>1978</dc:date>
+			<dc:subject>Lettere ed Epistolari</dc:subject>
+			<dc:subject>Politica</dc:subject>
+			<dc:subject>Richiesta di salvataggio</dc:subject>
+			<dc:subject>Lettera dalla detenzione</dc:subject>
+			<dc:subject>Rapimento</dc:subject>
+			<dc:description>Lettera di Aldo Moro a Francesco Cossiga scritta durante il sequestro di Moro per mano delle Brigate Rosse e recapitata il 29 marzo 1978.</dc:description>
+			<dc:type>text</dc:type>
+			<dc:format type="physical-medium">Paper</dc:format>
+			<dc:format type="achivial-material">JPG</dc:format>
+			<dc:identifier>LPDP-01-01</dc:identifier>
+			<dc:language>ita</dc:language>
+			<dc:coverage>Archivio di Stato di Roma</dc:coverage>
+			<dc:rights>Direzione Generale degli Archivi - CC-BY, Creative Commons Attribuzione 4.0 Internazionale</dc:rights>
+			</text>
+	</author>
+</library>
+
